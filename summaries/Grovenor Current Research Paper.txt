@@ -1,0 +1,26 @@
+How the crystallography and nano-scale chemistry of the metal/oxide interface develops during the aqueous oxidation of zirconium cladding alloys
+==
+
+N. Ni1, D. Hudson1, J. Wei2, P. Wang2, S. Lozano-Perez1, G.D.W. Smith1, J.M. Sykes1, S. S.
+Yardley1, K.L. Moore1, S. Lyon2, R. Cottis2, M. Preuss2, C.R.M. Grovenor1
+
+What is the difference between Corrosion and Oxidation?
+
+They find intermediate oxides with compositions close to ZrO
+
+When/What is the kinetic transition? To Oxide? What is a suboxide?
+
+It is the development of interlinked porosity down to the metal/oxide interface that is the reason for the transition in oxidation kinetics.
+
+**But what is the kinetic transition?**
+
+
+The kinetics of high temperature oxidation are similar for oxygen, air, water or steam! [3,6,8]
+
+1. Short but rapid period oxidation
+2. Period or periods of decreasing corrosion rate
+3. Abrupt acceleration in rate aka transition/breakaway/breakdown
+
+Pre-transition
+-----
+Rate is either parabolic (like diffusion limited -> x=sqrt[t]) or cubic (wtf) .
